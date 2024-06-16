@@ -1,5 +1,3 @@
-Tic Tac Toe Game with Linera SDK
-Overview
 # Tic Tac Toe Game with Linera SDK
 
 ## Overview
